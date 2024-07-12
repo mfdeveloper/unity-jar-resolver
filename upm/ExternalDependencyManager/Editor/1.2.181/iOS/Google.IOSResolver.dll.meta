@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: ae27fcbe11294c9e9eeca7eb5ad2c857
+guid: 052fc6841b304ce4801cd850704efc6b
 labels:
-- gvh_version-1.2.181
-- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.181/Google.IOSResolver.dll
 - gvh
+- gvh_version-11.8.0
+- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.181/iOS/Google.IOSResolver.dll
 - gvhp_targets-editor
 PluginImporter:
   externalObjects: {}
@@ -46,7 +46,7 @@ PluginImporter:
       settings:
         CPU: AnyCPU
         DefaultValueInitialized: true
-        OS: OSX
+        OS: AnyOS
   - first:
       Standalone: Linux64
     second:
