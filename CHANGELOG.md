@@ -1,3 +1,9 @@
+# Version 1.2.183-pr.1 - Aug 17, 2024
+* iOS Resolver - Moved `.dll` files to `Editor/<version>/iOS` folder with `.asmdef` file,
+  in order to avoid Unity IOS missing .dll assemblies.
+  Fixes #622
+  Fixes #412
+
 # Version 1.2.182 - Aug 2, 2024
 * General - Check for gradle version instead of Unity version when determining
   the template files to modify.
